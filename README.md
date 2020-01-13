@@ -1,6 +1,8 @@
 # ComputerGraphicsProject
 Project for a computer graphics course
 
+![itsnotflat](/solarsystemjs.jpg)
+
 Authors: Broderick Beaman, Andrew Atkinson
 
 This project is meant to be a to-scale version of our solar system. (Note that while the orbital distances and velocities are all accurate relative to Earth,
